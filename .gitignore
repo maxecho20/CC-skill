@@ -1,0 +1,18 @@
+# Common
+node_modules/
+.DS_Store
+.env
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# AI generated / Temp
+temp/
+.anthropic/
+.claude/
+# outputs/ # Keep outputs if user wants to share them? User asked to create them in wengaoxiezuo.
